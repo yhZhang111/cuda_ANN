@@ -1,3 +1,0 @@
-/home/zyh/Documents/kernel_coding/gpu_ann_ivf/build/CMakeFiles/brute_nn.dir
-/home/zyh/Documents/kernel_coding/gpu_ann_ivf/build/CMakeFiles/edit_cache.dir
-/home/zyh/Documents/kernel_coding/gpu_ann_ivf/build/CMakeFiles/rebuild_cache.dir
