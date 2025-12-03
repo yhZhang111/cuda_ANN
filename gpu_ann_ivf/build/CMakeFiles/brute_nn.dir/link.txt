@@ -1,0 +1,1 @@
+/usr/bin/g++ -Wl,--dependency-file=CMakeFiles/brute_nn.dir/link.d @CMakeFiles/brute_nn.dir/objects1.rsp -o brute_nn @CMakeFiles/brute_nn.dir/linkLibs.rsp -L"/usr/local/cuda/targets/x86_64-linux/lib/stubs" -L"/usr/local/cuda/targets/x86_64-linux/lib"

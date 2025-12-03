@@ -1,0 +1,14 @@
+- cmake make makefile
+- cu
+    - grid block thread
+    - mem: global, shared, register
+    - thread & calculation
+- algorithm
+
+cu代码的编写和阅读，首先看kernel，之后再看如何划分grid和thread block
+
+-- 下一步编写分块的cuda C
+
+--(工程问题)src下面多个文件，如何组织和编译？
+
+-- kmeans的训练过程很慢，能不改到gpu上，另外找centroid的函数反复在用，想办法也给他挪到gpu上。
